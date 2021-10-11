@@ -3,7 +3,7 @@
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/**",
+                "${workspaceFolder}/**" ,
                 "C:\\SFML-2.5.1\\include"
             ],
             "defines": [
@@ -11,11 +11,10 @@
                 "UNICODE",
                 "_UNICODE"
             ],
-            "windowsSdkVersion": "10.0.17763.0",
-            "compilerPath": "C:/cygwin64/bin/g++.exe",
+            "windowsSdkVersion": "10.0.20348.0",
+            "compilerPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\BuildTools\\VC\\Tools\\MSVC\\14.16.27023\\bin\\Hostx64\\x64\\cl.exe",
             "cStandard": "c17",
-            "intelliSenseMode": "linux-gcc-x64",
-            "cppStandard": "c++20"
+            "intelliSenseMode": "windows-msvc-x64"
         }
     ],
     "version": 4
